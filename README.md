@@ -1,5 +1,3 @@
-# Space invaders 2.0
-
 # Space Invaders 2.0
 
 ## **Table of Contents**
