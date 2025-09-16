@@ -13,7 +13,7 @@
 
 ## **Overview**
 
-This project is a recreation of the game Space Invaders. 
+This project is a recreation of the game Space Invaders, but with a few of our twists - watch the video!
 
 ---
 
